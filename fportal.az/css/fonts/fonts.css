@@ -1,0 +1,16 @@
+@font-face {
+    font-family: SquareSansMedium;
+    src: url("/css/fonts/PFSquareSansPro-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: SquareSansRegular;
+    src: url("/css/fonts/PFSquareSansPro-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: medium;
+    src: url("/css/fonts/Medium.woff") format('woff'), url("/css/fonts/Medium.woff") format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
